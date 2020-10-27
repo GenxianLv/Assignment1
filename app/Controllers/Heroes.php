@@ -32,3 +32,4 @@ class Heroes extends BaseController
       ->render('oneplace');
     }
 }
+12
