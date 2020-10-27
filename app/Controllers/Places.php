@@ -13,4 +13,3 @@ class Places extends \CodeIgniter\Controller
        return json_encode($records);
     }
 }
-12
