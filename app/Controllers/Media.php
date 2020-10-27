@@ -8,4 +8,3 @@
             readfile(WRITEPATH . 'data/' . $filename);
         }
     }
-    12
