@@ -1,7 +1,7 @@
 <?php
 namespace App\Controllers;
 
-class Places extends \CodeIgniter\Controller
+class Data extends \CodeIgniter\Controller
 {
     public function index()
     {
